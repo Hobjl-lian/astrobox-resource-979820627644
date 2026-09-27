@@ -24,7 +24,7 @@
     {
       "title": "点击此处预览表盘",
       "url": "https://www.ifdian.net/item/d8cc1b1e93e511f1b5895254001e7c00?utm_source=copylink&utm_medium=link",
-      "icon": ""
+      "icon": "arrow-bend-right-up"
     }
   ],
   "downloads": {
@@ -59,6 +59,16 @@
     "xmb9p": {
       "version": "1.0.0",
       "file_name": "downloads/SnapUI-照片表盘-9P10P.bin"
+    },
+    "xmb11": {
+      "version": "1.0.2",
+      "file_name": "downloads/SnapUI-照片表盘-1011-xmb11.bin",
+      "versionCode": 65538
+    },
+    "xmb11nfc": {
+      "version": "1.0.2",
+      "file_name": "downloads/SnapUI-照片表盘-1011-xmb11nfc.bin",
+      "versionCode": 65538
     }
   },
   "ext": {
