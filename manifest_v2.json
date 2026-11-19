@@ -2,8 +2,8 @@
   "item": {
     "id": "979820627644",
     "restype": "watchface",
-    "name": "SnapUI-照片表盘【安装我】",
-    "description": "2025年6月11日首次发布。\n\nPS：已在爱发电购买的用户请先绑定爱发电账号后来这里安装哦，未购买的用户可以点击上方爱发电链接了解表盘详情~",
+    "name": "SnapUI-照片表盘",
+    "description": "「全网首个支持真实模糊效果的照片表盘」\n\n仿拍立得的设计风格，轻现代、美观。从这里，开始体验全新的照片表盘。\n\n「创作版」表盘将不断保持更新，包括但不限于全新UI、更多配色方案、更多字体、支持更多自定义内容等等。",
     "preview": [
       "media/Ab头图1.jpg",
       "media/Ab1.jpg",
@@ -29,16 +29,19 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-RW5RW6.bin"
+      "version": "1.0.6",
+      "file_name": "downloads/SnapUI-照片表盘-432-v1.0.7.bin",
+      "versionCode": 65542
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-RW5RW6.bin"
+      "version": "1.0.6",
+      "file_name": "downloads/SnapUI-照片表盘-432-v1.0.7.bin",
+      "versionCode": 65542
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-RW5RW6.bin"
+      "version": "1.0.6",
+      "file_name": "downloads/SnapUI-照片表盘-432-v1.0.7.bin",
+      "versionCode": 65542
     },
     "xmb10": {
       "version": "1.0.0",
