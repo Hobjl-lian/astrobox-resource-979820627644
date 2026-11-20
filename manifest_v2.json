@@ -44,33 +44,38 @@
       "versionCode": 65542
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-10.bin"
+      "version": "1.0.2",
+      "file_name": "downloads/SnapUI-照片表盘-212-v1.0.2.bin",
+      "versionCode": 65538
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-10.bin"
+      "version": "1.0.2",
+      "file_name": "downloads/SnapUI-照片表盘-212-v1.0.2.bin",
+      "versionCode": 65538
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-9P10P.bin"
+      "version": "1.0.4",
+      "file_name": "downloads/SnapUI-照片表盘-336-v1.0.4.bin",
+      "versionCode": 65540
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-9.bin"
+      "version": "1.0.2",
+      "file_name": "downloads/SnapUI-照片表盘-192-v1.0.2.bin",
+      "versionCode": 65538
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/SnapUI-照片表盘-9P10P.bin"
+      "version": "1.0.4",
+      "file_name": "downloads/SnapUI-照片表盘-336-v1.0.4.bin",
+      "versionCode": 65540
     },
     "xmb11": {
       "version": "1.0.2",
-      "file_name": "downloads/SnapUI-照片表盘-1011-xmb11.bin",
+      "file_name": "downloads/SnapUI-照片表盘-212-v1.0.2.bin",
       "versionCode": 65538
     },
     "xmb11nfc": {
       "version": "1.0.2",
-      "file_name": "downloads/SnapUI-照片表盘-1011-xmb11nfc.bin",
+      "file_name": "downloads/SnapUI-照片表盘-212-v1.0.2.bin",
       "versionCode": 65538
     }
   },
